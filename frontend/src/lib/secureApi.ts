@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 /**
  * SECURE MULTI-TENANT API CLIENT
  * 
